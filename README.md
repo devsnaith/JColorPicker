@@ -12,7 +12,7 @@
 ```console
 $ sudo apt-get install openjdk-8-jdk
 ```
-> Now close the terminal and open a new one
+> Now close the terminal and open a new one and 
 > _use ``java -version`` to check if it has been installed._
 ```console
 $ java -version
