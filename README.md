@@ -3,9 +3,9 @@
 
 **JColorPicker is a simple color picker tool created with java, For now, it's support English**
 ### Features
-- **User interface is simple and not complicated**
-- **Ability to pick colors around the cursor from the program**
-- **Auto pick available**
+- **User interface is simple.**
+- **Ability to pick colors around the cursor from the program.**
+- **Auto pick available.**
 
 ### Installation
 **First, you need to install Java 8, If you have java 8 installed you can go to the next step.**
